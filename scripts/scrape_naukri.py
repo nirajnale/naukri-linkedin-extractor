@@ -3,7 +3,7 @@ from playwright.async_api import async_playwright
 import csv
 import re
 import urllib.parse
-
+ 
 SEARCH_QUERY = "Lead Generation"
 LOCATION = "India"
 MAX_PAGES = 50
